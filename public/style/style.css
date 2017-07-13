@@ -25,3 +25,10 @@
 .list-group-item:hover {
   background-color: #eee;
 }
+body > div > div > ul > li > div > div.media-body {
+  padding: 10px;
+}
+body > div > div > div.video-detail > div.details {
+  min-height: 135px;
+  padding: 35px;
+}
