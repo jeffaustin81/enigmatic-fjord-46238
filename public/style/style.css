@@ -26,7 +26,7 @@
   background-color: #eee;
 }
 body > div > div > ul > li > div > div.media-body {
-  padding: 10px;
+  padding: 10px 0 0 10px;
 }
 body > div > div > div.video-detail > div.details {
   min-height: 135px;
