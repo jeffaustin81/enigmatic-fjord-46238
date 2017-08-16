@@ -17,7 +17,7 @@ class App extends Component {
       selectedVideo: null
     };
 // Default search to provide initial content
-    this.videoSearch('trail blazers');
+    this.videoSearch('');
   }
 
   videoSearch(term) {
